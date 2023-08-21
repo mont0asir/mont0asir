@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mont0asir I'm on my journey to be an amazing and astonishing data analyst
-- 👀 I’m interested in a lot of different professions and studies but for now, I'm looking to be a data analyst
-- 🌱 I’m currently learning ... Excel and Python and how to automate them together, brushing off my mathematics skills 
+- 👋 Hi, I’m @mont0asir 
+- 👀 I’m interested in a 
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
